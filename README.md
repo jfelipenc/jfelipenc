@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jfelipenc
+- 👀 I'm just a youngman trying to give himself some shape through big dreams and greater will.
+- 🌱 I develop web applications, machine learning algorithms and overall apps to help with data analysis.
+- 💞️ I’m looking to expand my knowledge in economics, advanced mathematics and many other areas.
+- 📫 If you're interested in presenting some idea I could help on, feel free to mail me at joaofel14@gmail.com :)
