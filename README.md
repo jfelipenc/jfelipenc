@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, meu nome é João Felipe.</h1>
-<h3 align="center">Graduando em Ciência da Computação pela Estácio🌟.</h3>
+<h3 align="center">Graduando em Ciência da Computação 🖥️.</h3>
 
 <br>
 
