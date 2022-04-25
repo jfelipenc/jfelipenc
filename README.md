@@ -25,9 +25,6 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-felipe-nunes-carvalho-2a32131a3/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="joão felipe" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/joaofelipe.nunescarvalho" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="joão felipe" height="30" width="40" /></a>
   <a href="https://www.instagram.com/johnfnc/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="johnfnc" height="30" width="40" /></a>
