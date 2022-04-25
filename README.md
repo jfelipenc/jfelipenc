@@ -4,12 +4,6 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joao-felipe" /></p>
-<h3>Destaques: </h3>
-
-- Notebooks de cursos em Ciência de Dados: https://github.com/jfelipenc/portfolio-datascience
-
-- Relatórios/Dashboards: https://github.com/jfelipenc/dashboards
-
 <h3>Sobre mim: </h3>
 
 - 🌱 Atualmente trabalho como Consultor em Análise de Dados e Desenvolvimento
@@ -17,6 +11,12 @@
 - 📫 Entre em contato: **jfelipe.nc@outlook.com**
 
 - ⚡ Sobre mim :- Conhecimento 📜, música 🎵 e livros 📚 são minha vida.
+
+<h3>Destaques: </h3>
+
+- Notebooks de cursos em Ciência de Dados: https://github.com/jfelipenc/portfolio-datascience
+
+- Relatórios/Dashboards: https://github.com/jfelipenc/dashboards
 
 <br>
 
