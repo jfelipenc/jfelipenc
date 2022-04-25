@@ -4,7 +4,11 @@
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joao-felipe" /></p>
+<h3>Destaques: </h3>
+- Notebooks de cursos em Ciência de Dados: https://github.com/jfelipenc/portfolio-datascience
+- Relatórios/Dashboards: https://github.com/jfelipenc/dashboards
 
+<h3>Sobre mim: </h3>
 
 - 🌱 Atualmente trabalho como Consultor em Análise de Dados e Desenvolvimento
 
@@ -76,7 +80,7 @@
 
 <br>
 
-<h3>Estatísticas :-</h3>
+<h3>Estatísticas :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jfelipenc&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="jfelipenc" 
