@@ -8,7 +8,7 @@
 
 - 🌱 Atualmente trabalho como Consultor em Análise de Dados e Desenvolvimento
 
-- 📫 Entre em contato: **jfelipe.nc@outlook.com**
+- 📫 Entre em contato: **jfelipenc@outlook.com**
 
 - ⚡ Sobre mim :- Conhecimento 📜, música 🎵 e livros 📚 são minha vida.
 
