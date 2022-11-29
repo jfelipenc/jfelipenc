@@ -14,6 +14,8 @@
 
 <h3>Destaques: </h3>
 
+- [Implementação de Stacking em tarefa de Regressão](https://www.kaggle.com/code/docstein/implementa-o-de-stacking-com-scikit-learn)
+
 - [Análise premiada em Competição DataCamp](https://app.datacamp.com/workspace/w/9582a890-1c89-46cd-a16e-921c3683958b) :trophy:
 
 - Notebooks de cursos em Ciência de Dados: https://github.com/jfelipenc/portfolio-datascience
