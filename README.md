@@ -6,7 +6,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joao-felipe" /></p>
 <h3>Sobre mim: </h3>
 
-- 🌱 Atualmente trabalho como Consultor em Análise de Dados e Desenvolvimento
+- 🌱 Atualmente trabalho como Analista de Dados e Desenvolver Python
 
 - 📫 Entre em contato: **jfelipenc@outlook.com**
 
