@@ -10,7 +10,7 @@
 
 - 📫 Entre em contato: **jfelipenc@outlook.com**
 
-- ⚡ Sobre mim :- Conhecimento 📜, música 🎵 e livros 📚 são minha vida.
+- ⚡ Sobre mim :- Sou apaixonado por dados, machine learning e outras tecnologias que nos ajudem a tornar o mundo um lugar melhor!
 
 <h3>Destaques: </h3>
 
