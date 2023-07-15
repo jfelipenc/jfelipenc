@@ -12,7 +12,9 @@
 
 - ⚡ Sobre mim :- Sou apaixonado por dados, machine learning e outras tecnologias que nos ajudem a tornar o mundo um lugar melhor!
 
-<h3>Destaques: </h3>
+<h3>Últimos projetos: </h3>
+
+- Geração de remessas SOFISA
 
 - [Implementação de Stacking em tarefa de Regressão](https://www.kaggle.com/code/docstein/implementa-o-de-stacking-com-scikit-learn)
 
