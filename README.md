@@ -1,7 +1,7 @@
-## Hi 👋, my name is João Felipe.
+## I'm JC! Code sorcerer, AI alchemist and Data dynamo.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=480&lines=Crafting+the+Future%2C+One+Line+at+a+Time!+)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=gcp,azure,linux,py,flask,django,angular,mongodb,powershell,js,ai,flutter&perline=6)](https://skillicons.dev)
-### Code Sorcerer, AI Alchemist, Data Dynamo – Crafting the Future, One Line at a Time! 🖥️.
 
 <br>
 
