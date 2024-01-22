@@ -1,6 +1,7 @@
 ## Hi 👋, my name is João Felipe.
 
-### Undergraduate in Computer Science 🖥️.
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,linux,py,flask,django,angular,mongodb,powershell,js,ai,flutter&perline=6)](https://skillicons.dev)
+### Code Sorcerer, AI Alchemist, Data Dynamo – Crafting the Future, One Line at a Time! 🖥️.
 
 <br>
 
@@ -14,7 +15,8 @@
 
 - ⚡ About me :- I am passionate about machine/deep learning and things AI-related and am pursuing greater skills within automated agents and LLM!
 
-### Latest projects: 
+### Latest projects:
+- AI Salesman chatbot for Whatsapp Business
 
 - Generation of SOFISA remittances
 
