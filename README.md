@@ -1,7 +1,7 @@
 ## I'm JC! Code sorcerer, AI alchemist and Data dynamo.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=480&lines=Crafting+the+Future%2C+One+Line+at+a+Time!+)](https://git.io/typing-svg)
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,azure,linux,py,flask,django,mongodb,powershell,js,openai&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gcp,azure,linux,py,flask,django,mongodb,powershell,js,godot,postgres,ros,pytorch,raspberrypi&perline=6)](https://skillicons.dev)
 
 <br>
 
